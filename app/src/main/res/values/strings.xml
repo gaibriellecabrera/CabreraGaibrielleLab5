@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CabreraGaibrielleLab5</string>
+    <string name="title">Monastery of Saint Agustin</string>
+    <string name="loc">Location:</string>
+    <string name="distance">Distance to UST:</string>
+    <string name="loc1">General Luna St., Manila, Luzon Philippines</string>
+    <string name="dist1">3.8 km away from UST</string>
+    <string name="back">Activity 2</string>
+    <string name="map">Map</string>
+    <string name="title2">Robinsons Place Mall</string>
+    <string name="loc2">Location:</string>
+    <string name="distance2">Distance to UST:</string>
+    <string name="loc3">Pedro Gil Cor. Adriatico St., Manila, Luzon Philippines</string>
+    <string name="dist3">4.7 km away from UST</string>
+    <string name="back2">Activity 1</string>
+    <string name="map2">Map</string>
+</resources>
